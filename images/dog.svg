@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Dog resting outdoors</title>
+  <desc id="desc">A simple illustrated dog resting beneath a wide sky.</desc>
+  <rect width="1200" height="800" fill="#b9c9c2"/>
+  <rect y="500" width="1200" height="300" fill="#7d927d"/>
+  <circle cx="930" cy="155" r="88" fill="#f1d5a3" opacity=".9"/>
+  <path d="M240 560c45-118 170-150 290-83 80-80 226-45 246 75 25 144-115 151-241 107-131 70-324 48-295-99Z" fill="#9a6045"/>
+  <path d="M393 488c-45-130 31-204 145-173 86 23 103 123 38 196l-94 30Z" fill="#a96f51"/>
+  <path d="M421 356c-38-68-8-123 45-142 53 42 66 91 35 148M544 346c-8-82 34-120 96-109 28 60 1 115-55 151" fill="#734635"/>
+  <circle cx="480" cy="431" r="10" fill="#20221f"/>
+  <path d="M520 465c18 16 39 17 58 0" fill="none" stroke="#20221f" stroke-width="8" stroke-linecap="round"/>
+</svg>
